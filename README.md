@@ -3,7 +3,7 @@ contacts book application build with PyQt5 and sqlite
 
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
-     <img alt="AsukaDev-Official/Buku-kontak" height="60%" width="100%" src="Screenshot_20210418-104105133.jpg"/>
+     <img alt="AsukaDev-Official/Buku-kontak" height="60%" width="100%" src="Screenshot_20210418-214446565.jpg"/>
   </a>
 </p>
 
